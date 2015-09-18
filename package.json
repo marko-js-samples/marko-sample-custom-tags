@@ -1,0 +1,27 @@
+{
+  "name": "marko-sample-custom-tags",
+  "description": "Sample reusable custom tags (no Marko Widgets)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raptorjs/marko-sample-custom-tags.git"
+  },
+  "scripts": {
+    "test": "node_modules/.bin/mocha --ui bdd --reporter spec  ./test"
+  },
+  "author": "Patrick Steele-Idem <pnidem@gmail.com>",
+  "maintainers": "Patrick Steele-Idem <pnidem@gmail.com>",
+  "dependencies": {
+    "marko": "^2.0.0"
+  },
+  "devDependencies": {
+    "chai": "~1.8.1",
+    "mocha": "~1.15.1"
+  },
+  "license": "MIT",
+  "bin": {},
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "version": "2.0.0"
+}
