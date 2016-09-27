@@ -11,7 +11,7 @@
   "author": "Patrick Steele-Idem <pnidem@gmail.com>",
   "maintainers": "Patrick Steele-Idem <pnidem@gmail.com>",
   "dependencies": {
-    "marko": "^2.0.0"
+    "marko": "^3.0.3"
   },
   "devDependencies": {
     "chai": "~1.8.1",
